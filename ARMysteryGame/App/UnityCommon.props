@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>ARMysteryGame</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Appallonia\Documents\GitHub\ARGame\ARMysteryGame\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Appallonia\Documents\GitHub\ARGame\ARMysteryGame\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

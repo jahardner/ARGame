@@ -1,0 +1,2 @@
+C:\Users\Appallonia\Documents\GitHub\ARGame\ARMysteryGame\App\ARMysteryGame\ARMysteryGame.csproj;arm
+C:\Users\Appallonia\Documents\GitHub\ARGame\ARMysteryGame\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
